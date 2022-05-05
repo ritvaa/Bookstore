@@ -1,0 +1,15 @@
+D:\Users\Ada\Desktop\Bookstore\Bookstore\Bookstore.Domain\bin\Debug\net6.0\Bookstore.Domain.deps.json
+D:\Users\Ada\Desktop\Bookstore\Bookstore\Bookstore.Domain\bin\Debug\net6.0\Bookstore.Domain.dll
+D:\Users\Ada\Desktop\Bookstore\Bookstore\Bookstore.Domain\bin\Debug\net6.0\Bookstore.Domain.pdb
+D:\Users\Ada\Desktop\Bookstore\Bookstore\Bookstore.Domain\bin\Debug\net6.0\Bookstore.common.dll
+D:\Users\Ada\Desktop\Bookstore\Bookstore\Bookstore.Domain\bin\Debug\net6.0\Bookstore.common.pdb
+D:\Users\Ada\Desktop\Bookstore\Bookstore\Bookstore.Domain\obj\Debug\net6.0\Bookstore.Domain.csproj.AssemblyReference.cache
+D:\Users\Ada\Desktop\Bookstore\Bookstore\Bookstore.Domain\obj\Debug\net6.0\Bookstore.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Ada\Desktop\Bookstore\Bookstore\Bookstore.Domain\obj\Debug\net6.0\Bookstore.Domain.AssemblyInfoInputs.cache
+D:\Users\Ada\Desktop\Bookstore\Bookstore\Bookstore.Domain\obj\Debug\net6.0\Bookstore.Domain.AssemblyInfo.cs
+D:\Users\Ada\Desktop\Bookstore\Bookstore\Bookstore.Domain\obj\Debug\net6.0\Bookstore.Domain.csproj.CoreCompileInputs.cache
+D:\Users\Ada\Desktop\Bookstore\Bookstore\Bookstore.Domain\obj\Debug\net6.0\Bookstore.Domain.csproj.CopyComplete
+D:\Users\Ada\Desktop\Bookstore\Bookstore\Bookstore.Domain\obj\Debug\net6.0\Bookstore.Domain.dll
+D:\Users\Ada\Desktop\Bookstore\Bookstore\Bookstore.Domain\obj\Debug\net6.0\refint\Bookstore.Domain.dll
+D:\Users\Ada\Desktop\Bookstore\Bookstore\Bookstore.Domain\obj\Debug\net6.0\Bookstore.Domain.pdb
+D:\Users\Ada\Desktop\Bookstore\Bookstore\Bookstore.Domain\obj\Debug\net6.0\ref\Bookstore.Domain.dll

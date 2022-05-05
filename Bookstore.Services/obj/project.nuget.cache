@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "O1dlGjDVcxKTanlYSbMCEdF85Y4PDPpgzQ+/9qwFzMtcKU/O4ZSqvjlUHjPhuUGmi4dKg2VNM9WRZkQmGy9jfw==",
+  "success": true,
+  "projectFilePath": "D:\\Users\\Ada\\Desktop\\Bookstore\\Bookstore\\Bookstore.Services\\Bookstore.Services.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ada\\.nuget\\packages\\fluentvalidation\\10.4.0\\fluentvalidation.10.4.0.nupkg.sha512",
+    "C:\\Users\\Ada\\.nuget\\packages\\fluentvalidation.aspnetcore\\10.4.0\\fluentvalidation.aspnetcore.10.4.0.nupkg.sha512",
+    "C:\\Users\\Ada\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\10.4.0\\fluentvalidation.dependencyinjectionextensions.10.4.0.nupkg.sha512",
+    "C:\\Users\\Ada\\.nuget\\packages\\microsoft.aspnetcore.mvc.versioning\\5.0.0\\microsoft.aspnetcore.mvc.versioning.5.0.0.nupkg.sha512",
+    "C:\\Users\\Ada\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net6.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\Bookstore.common\Bookstore.common.csproj" />
+      <ProjectReference Include="..\Bookstore.Domain\Bookstore.Domain.csproj" />
+      <ProjectReference Include="..\Bookstore.IData\Bookstore.IData.csproj" />
+      <ProjectReference Include="..\Bookstore.IServices\Bookstore.IServices.csproj" />
+    </ItemGroup>
+
+</Project>

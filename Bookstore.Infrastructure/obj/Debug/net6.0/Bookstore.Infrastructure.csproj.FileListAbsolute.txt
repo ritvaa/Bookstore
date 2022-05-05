@@ -1,0 +1,12 @@
+D:\Users\Ada\Desktop\Bookstore\Bookstore\Bookstore.Infrastructure\bin\Debug\net6.0\Bookstore.Infrastructure.deps.json
+D:\Users\Ada\Desktop\Bookstore\Bookstore\Bookstore.Infrastructure\bin\Debug\net6.0\Bookstore.Infrastructure.dll
+D:\Users\Ada\Desktop\Bookstore\Bookstore\Bookstore.Infrastructure\bin\Debug\net6.0\Bookstore.Infrastructure.pdb
+D:\Users\Ada\Desktop\Bookstore\Bookstore\Bookstore.Infrastructure\obj\Debug\net6.0\Bookstore.Infrastructure.csproj.AssemblyReference.cache
+D:\Users\Ada\Desktop\Bookstore\Bookstore\Bookstore.Infrastructure\obj\Debug\net6.0\Bookstore.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Ada\Desktop\Bookstore\Bookstore\Bookstore.Infrastructure\obj\Debug\net6.0\Bookstore.Infrastructure.AssemblyInfoInputs.cache
+D:\Users\Ada\Desktop\Bookstore\Bookstore\Bookstore.Infrastructure\obj\Debug\net6.0\Bookstore.Infrastructure.AssemblyInfo.cs
+D:\Users\Ada\Desktop\Bookstore\Bookstore\Bookstore.Infrastructure\obj\Debug\net6.0\Bookstore.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Users\Ada\Desktop\Bookstore\Bookstore\Bookstore.Infrastructure\obj\Debug\net6.0\Bookstore.Infrastructure.dll
+D:\Users\Ada\Desktop\Bookstore\Bookstore\Bookstore.Infrastructure\obj\Debug\net6.0\refint\Bookstore.Infrastructure.dll
+D:\Users\Ada\Desktop\Bookstore\Bookstore\Bookstore.Infrastructure\obj\Debug\net6.0\Bookstore.Infrastructure.pdb
+D:\Users\Ada\Desktop\Bookstore\Bookstore\Bookstore.Infrastructure\obj\Debug\net6.0\ref\Bookstore.Infrastructure.dll

@@ -1,0 +1,200 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Users\\Ada\\Desktop\\Bookstore\\Bookstore\\Bookstore.IData\\Bookstore.IData.csproj": {}
+  },
+  "projects": {
+    "D:\\Users\\Ada\\Desktop\\Bookstore\\Bookstore\\Bookstore.common\\Bookstore.common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Users\\Ada\\Desktop\\Bookstore\\Bookstore\\Bookstore.common\\Bookstore.common.csproj",
+        "projectName": "Bookstore.common",
+        "projectPath": "D:\\Users\\Ada\\Desktop\\Bookstore\\Bookstore\\Bookstore.common\\Bookstore.common.csproj",
+        "packagesPath": "C:\\Users\\Ada\\.nuget\\packages\\",
+        "outputPath": "D:\\Users\\Ada\\Desktop\\Bookstore\\Bookstore\\Bookstore.common\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Ada\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[10.4.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Versioning": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Users\\Ada\\Desktop\\Bookstore\\Bookstore\\Bookstore.Domain\\Bookstore.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Users\\Ada\\Desktop\\Bookstore\\Bookstore\\Bookstore.Domain\\Bookstore.Domain.csproj",
+        "projectName": "Bookstore.Domain",
+        "projectPath": "D:\\Users\\Ada\\Desktop\\Bookstore\\Bookstore\\Bookstore.Domain\\Bookstore.Domain.csproj",
+        "packagesPath": "C:\\Users\\Ada\\.nuget\\packages\\",
+        "outputPath": "D:\\Users\\Ada\\Desktop\\Bookstore\\Bookstore\\Bookstore.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Ada\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Users\\Ada\\Desktop\\Bookstore\\Bookstore\\Bookstore.common\\Bookstore.common.csproj": {
+                "projectPath": "D:\\Users\\Ada\\Desktop\\Bookstore\\Bookstore\\Bookstore.common\\Bookstore.common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Users\\Ada\\Desktop\\Bookstore\\Bookstore\\Bookstore.IData\\Bookstore.IData.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Users\\Ada\\Desktop\\Bookstore\\Bookstore\\Bookstore.IData\\Bookstore.IData.csproj",
+        "projectName": "Bookstore.IData",
+        "projectPath": "D:\\Users\\Ada\\Desktop\\Bookstore\\Bookstore\\Bookstore.IData\\Bookstore.IData.csproj",
+        "packagesPath": "C:\\Users\\Ada\\.nuget\\packages\\",
+        "outputPath": "D:\\Users\\Ada\\Desktop\\Bookstore\\Bookstore\\Bookstore.IData\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Ada\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Users\\Ada\\Desktop\\Bookstore\\Bookstore\\Bookstore.common\\Bookstore.common.csproj": {
+                "projectPath": "D:\\Users\\Ada\\Desktop\\Bookstore\\Bookstore\\Bookstore.common\\Bookstore.common.csproj"
+              },
+              "D:\\Users\\Ada\\Desktop\\Bookstore\\Bookstore\\Bookstore.Domain\\Bookstore.Domain.csproj": {
+                "projectPath": "D:\\Users\\Ada\\Desktop\\Bookstore\\Bookstore\\Bookstore.Domain\\Bookstore.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

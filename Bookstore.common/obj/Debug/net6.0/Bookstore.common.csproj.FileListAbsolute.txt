@@ -1,0 +1,48 @@
+C:/Users/Ada/RiderProjects/zadanie_3/Bookstore/Bookstore.common/bin/Debug/net6.0/Bookstore.common.deps.json
+C:/Users/Ada/RiderProjects/zadanie_3/Bookstore/Bookstore.common/bin/Debug/net6.0/Bookstore.common.dll
+C:/Users/Ada/RiderProjects/zadanie_3/Bookstore/Bookstore.common/bin/Debug/net6.0/Bookstore.common.pdb
+C:/Users/Ada/RiderProjects/zadanie_3/Bookstore/Bookstore.common/obj/Debug/net6.0/Bookstore.common.csproj.AssemblyReference.cache
+C:/Users/Ada/RiderProjects/zadanie_3/Bookstore/Bookstore.common/obj/Debug/net6.0/Bookstore.common.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Ada/RiderProjects/zadanie_3/Bookstore/Bookstore.common/obj/Debug/net6.0/Bookstore.common.AssemblyInfoInputs.cache
+C:/Users/Ada/RiderProjects/zadanie_3/Bookstore/Bookstore.common/obj/Debug/net6.0/Bookstore.common.AssemblyInfo.cs
+C:/Users/Ada/RiderProjects/zadanie_3/Bookstore/Bookstore.common/obj/Debug/net6.0/Bookstore.common.csproj.CoreCompileInputs.cache
+C:/Users/Ada/RiderProjects/zadanie_3/Bookstore/Bookstore.common/obj/Debug/net6.0/Bookstore.common.dll
+C:/Users/Ada/RiderProjects/zadanie_3/Bookstore/Bookstore.common/obj/Debug/net6.0/refint/Bookstore.common.dll
+C:/Users/Ada/RiderProjects/zadanie_3/Bookstore/Bookstore.common/obj/Debug/net6.0/Bookstore.common.pdb
+C:/Users/Ada/RiderProjects/zadanie_3/Bookstore/Bookstore.common/obj/Debug/net6.0/ref/Bookstore.common.dll
+/home/salama/programowanieiiprojekt20212022/studenci/p09/adriana_barteczko/projekt-s_100697/Zadanie_3/Bookstore/Bookstore.common/bin/Debug/net6.0/Bookstore.common.deps.json
+/home/salama/programowanieiiprojekt20212022/studenci/p09/adriana_barteczko/projekt-s_100697/Zadanie_3/Bookstore/Bookstore.common/bin/Debug/net6.0/Bookstore.common.dll
+/home/salama/programowanieiiprojekt20212022/studenci/p09/adriana_barteczko/projekt-s_100697/Zadanie_3/Bookstore/Bookstore.common/bin/Debug/net6.0/Bookstore.common.pdb
+/home/salama/programowanieiiprojekt20212022/studenci/p09/adriana_barteczko/projekt-s_100697/Zadanie_3/Bookstore/Bookstore.common/obj/Debug/net6.0/Bookstore.common.csproj.AssemblyReference.cache
+/home/salama/programowanieiiprojekt20212022/studenci/p09/adriana_barteczko/projekt-s_100697/Zadanie_3/Bookstore/Bookstore.common/obj/Debug/net6.0/Bookstore.common.GeneratedMSBuildEditorConfig.editorconfig
+/home/salama/programowanieiiprojekt20212022/studenci/p09/adriana_barteczko/projekt-s_100697/Zadanie_3/Bookstore/Bookstore.common/obj/Debug/net6.0/Bookstore.common.AssemblyInfoInputs.cache
+/home/salama/programowanieiiprojekt20212022/studenci/p09/adriana_barteczko/projekt-s_100697/Zadanie_3/Bookstore/Bookstore.common/obj/Debug/net6.0/Bookstore.common.AssemblyInfo.cs
+/home/salama/programowanieiiprojekt20212022/studenci/p09/adriana_barteczko/projekt-s_100697/Zadanie_3/Bookstore/Bookstore.common/obj/Debug/net6.0/Bookstore.common.csproj.CoreCompileInputs.cache
+/home/salama/programowanieiiprojekt20212022/studenci/p09/adriana_barteczko/projekt-s_100697/Zadanie_3/Bookstore/Bookstore.common/obj/Debug/net6.0/Bookstore.common.dll
+/home/salama/programowanieiiprojekt20212022/studenci/p09/adriana_barteczko/projekt-s_100697/Zadanie_3/Bookstore/Bookstore.common/obj/Debug/net6.0/refint/Bookstore.common.dll
+/home/salama/programowanieiiprojekt20212022/studenci/p09/adriana_barteczko/projekt-s_100697/Zadanie_3/Bookstore/Bookstore.common/obj/Debug/net6.0/Bookstore.common.pdb
+/home/salama/programowanieiiprojekt20212022/studenci/p09/adriana_barteczko/projekt-s_100697/Zadanie_3/Bookstore/Bookstore.common/obj/Debug/net6.0/ref/Bookstore.common.dll
+D:\Users\Ada\Desktop\Bookstore API\Bookstore\Bookstore.common\bin\Debug\net6.0\Bookstore.common.deps.json
+D:\Users\Ada\Desktop\Bookstore API\Bookstore\Bookstore.common\bin\Debug\net6.0\Bookstore.common.dll
+D:\Users\Ada\Desktop\Bookstore API\Bookstore\Bookstore.common\bin\Debug\net6.0\Bookstore.common.pdb
+D:\Users\Ada\Desktop\Bookstore API\Bookstore\Bookstore.common\obj\Debug\net6.0\Bookstore.common.csproj.AssemblyReference.cache
+D:\Users\Ada\Desktop\Bookstore API\Bookstore\Bookstore.common\obj\Debug\net6.0\Bookstore.common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Ada\Desktop\Bookstore API\Bookstore\Bookstore.common\obj\Debug\net6.0\Bookstore.common.AssemblyInfoInputs.cache
+D:\Users\Ada\Desktop\Bookstore API\Bookstore\Bookstore.common\obj\Debug\net6.0\Bookstore.common.AssemblyInfo.cs
+D:\Users\Ada\Desktop\Bookstore API\Bookstore\Bookstore.common\obj\Debug\net6.0\Bookstore.common.csproj.CoreCompileInputs.cache
+D:\Users\Ada\Desktop\Bookstore API\Bookstore\Bookstore.common\obj\Debug\net6.0\Bookstore.common.dll
+D:\Users\Ada\Desktop\Bookstore API\Bookstore\Bookstore.common\obj\Debug\net6.0\refint\Bookstore.common.dll
+D:\Users\Ada\Desktop\Bookstore API\Bookstore\Bookstore.common\obj\Debug\net6.0\Bookstore.common.pdb
+D:\Users\Ada\Desktop\Bookstore API\Bookstore\Bookstore.common\obj\Debug\net6.0\ref\Bookstore.common.dll
+D:\Users\Ada\Desktop\Bookstore\Bookstore\Bookstore.common\bin\Debug\net6.0\Bookstore.common.deps.json
+D:\Users\Ada\Desktop\Bookstore\Bookstore\Bookstore.common\bin\Debug\net6.0\Bookstore.common.dll
+D:\Users\Ada\Desktop\Bookstore\Bookstore\Bookstore.common\bin\Debug\net6.0\Bookstore.common.pdb
+D:\Users\Ada\Desktop\Bookstore\Bookstore\Bookstore.common\obj\Debug\net6.0\Bookstore.common.csproj.AssemblyReference.cache
+D:\Users\Ada\Desktop\Bookstore\Bookstore\Bookstore.common\obj\Debug\net6.0\Bookstore.common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Ada\Desktop\Bookstore\Bookstore\Bookstore.common\obj\Debug\net6.0\Bookstore.common.AssemblyInfoInputs.cache
+D:\Users\Ada\Desktop\Bookstore\Bookstore\Bookstore.common\obj\Debug\net6.0\Bookstore.common.AssemblyInfo.cs
+D:\Users\Ada\Desktop\Bookstore\Bookstore\Bookstore.common\obj\Debug\net6.0\Bookstore.common.csproj.CoreCompileInputs.cache
+D:\Users\Ada\Desktop\Bookstore\Bookstore\Bookstore.common\obj\Debug\net6.0\Bookstore.common.dll
+D:\Users\Ada\Desktop\Bookstore\Bookstore\Bookstore.common\obj\Debug\net6.0\refint\Bookstore.common.dll
+D:\Users\Ada\Desktop\Bookstore\Bookstore\Bookstore.common\obj\Debug\net6.0\Bookstore.common.pdb
+D:\Users\Ada\Desktop\Bookstore\Bookstore\Bookstore.common\obj\Debug\net6.0\ref\Bookstore.common.dll
