@@ -1,4 +1,5 @@
 using System;
+using Bookstore.Domain.DomainExceptions;
 
 namespace Bookstore.Domain.Book
 {
@@ -14,7 +15,10 @@ namespace Bookstore.Domain.Book
         public Book(int id, string title, string description, decimal price, string? imageHref, int publisherId)
         {
             BookId = id;
-            Title = title;
+            if (title.Length >=1 && title.Length <= 40)
+                Title = title;
+            else
+                throw new InvalidTitleException(title);
             Description = description;
             Price = price;
             ImageHref = imageHref;
@@ -24,12 +28,20 @@ namespace Bookstore.Domain.Book
         
         public Book(string title, string description, decimal price, string? imageHref, int publisherId)
         {
-            Title = title;
+            if (title.Length >=1 && title.Length <= 40)
+                Title = title;
+            else
+                throw new InvalidTitleException(title);
+            
             Description = description;
             Price = price;
             ImageHref = imageHref;
             PublisherId = publisherId;
         }
-        
+
+        public override bool Equals(object? obj)
+        {
+            return BookId == ((Book)obj).BookId;
+        }
     }
 }

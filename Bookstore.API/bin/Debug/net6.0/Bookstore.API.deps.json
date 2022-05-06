@@ -6,7 +6,7 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "bookstore.api/1.0.0": {
+      "Bookstore.API/1.0.0": {
         "dependencies": {
           "Bookstore.Data.Sql": "1.0.0",
           "Bookstore.Domain": "1.0.0",
@@ -22,7 +22,7 @@
           "Swashbuckle.AspNetCore": "6.2.3"
         },
         "runtime": {
-          "bookstore.api.dll": {}
+          "Bookstore.API.dll": {}
         }
       },
       "BouncyCastle.NetCore/1.8.5": {
@@ -525,7 +525,7 @@
     }
   },
   "libraries": {
-    "bookstore.api/1.0.0": {
+    "Bookstore.API/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

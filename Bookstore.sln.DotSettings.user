@@ -1,4 +1,14 @@
 ﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=b2669c68_002Db3aa_002D435c_002Db232_002Dbe6d2a325a50/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="AddBook_Returns_throws_Exception" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::BDF471A4-CEE3-427E-8CDF-BBFA25CCAA74::net6.0::Bookstore.Domain.Tests.Book.BookTest.AddBook_Returns_throws_Exception&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::B211C188-BCFD-4855-BE68-993996E2B96C::net6.0::Bookstore.Data.Sql.Tests.BookRepositoryTests.AddBook_Returns_Correct_Response&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::B211C188-BCFD-4855-BE68-993996E2B96C::net6.0::Bookstore.Data.Sql.Tests.BookRepositoryTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::8D7BFEFE-2A7B-4B1C-A705-D4C1BF5EB3C7::net6.0::Bookstore.Services.Tests.BookstoreServiceTests.AddBook_Returns_throw_InvalidTitleException&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::8D7BFEFE-2A7B-4B1C-A705-D4C1BF5EB3C7::net6.0::Bookstore.Services.Tests.BookstoreServiceTests.AddBook_Returns_Correct_Response&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::8D7BFEFE-2A7B-4B1C-A705-D4C1BF5EB3C7::net6.0::Bookstore.Services.Tests.BookstoreServiceTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
 	
 	
 	

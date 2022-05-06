@@ -1,8 +1,8 @@
 {
   "Version": 1,
-  "Hash": "dUvQzTXPgJQwQ8CMhpQ7h84v3Gvjbc3inH/M0iBmJn8=",
-  "Source": "bookstore.api",
-  "BasePath": "_content/bookstore.api",
+  "Hash": "7jdViZ0i8XwC2+nrK+FWq+UEa0Vr6BXkjZjUZQyOO+o=",
+  "Source": "Bookstore.API",
+  "BasePath": "_content/Bookstore.API",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],

@@ -5,7 +5,7 @@ using Bookstore.IServices.Book;
 
 namespace Bookstore.Services.Book
 {
-    public class BookService: IBookService
+    public class BookService : IBookService
     {
         private readonly IBookRepository _BookRepository;
 
@@ -54,30 +54,31 @@ namespace Bookstore.Services.Book
 
         public async Task<Domain.Book.Book> AddBook(AddBook addBook)
         {
-            var book = new Domain.Book.Book(addBook.Title, addBook.Description, addBook.Price, addBook.ImageHref, addBook.PublisherId);
+            var book = new Domain.Book.Book(addBook.Title, addBook.Description, addBook.Price, addBook.ImageHref,
+                addBook.PublisherId);
             var bookId = await _BookRepository.AddBook(book);
             book.BookId = bookId;
             return book;
         }
-        
+
         public async Task EditBook(int bookId, EditBook editBook)
         {
-            var book = new Domain.Book.Book(bookId,editBook.Title, editBook.Description, editBook.Price, editBook.ImageHref, editBook.PublisherId);
+            var book = new Domain.Book.Book(bookId, editBook.Title, editBook.Description, editBook.Price,
+                editBook.ImageHref, editBook.PublisherId);
             await _BookRepository.EditBook(bookId, book);
         }
-        
+
         public async Task UpdateBookPrice(UpdateBookPrice updateBookPrice, int bookId)
         {
             var book = await _BookRepository.GetBookById(bookId);
             book.Price = updateBookPrice.Price;
-            
+
             await _BookRepository.EditBook(bookId, book);
         }
-        
+
         public async Task DeleteBook(int bookId)
         {
             await _BookRepository.DeleteBook(bookId);
         }
     }
-
 }
