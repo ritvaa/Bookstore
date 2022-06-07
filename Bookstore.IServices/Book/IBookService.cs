@@ -11,5 +11,6 @@ namespace Bookstore.IServices.Book
         Task EditBook(int bookId, EditBook editBook);
         Task UpdateBookPrice(UpdateBookPrice updateBookPrice, int bookId);
         Task DeleteBook(int bookId);
+        Task<List<Bookstore.Domain.Book.Book>> ListBooks();
     }
 }

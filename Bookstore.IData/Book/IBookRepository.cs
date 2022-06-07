@@ -10,6 +10,7 @@ namespace Bookstore.IData.Book
         Task<int> AddBook(Bookstore.Domain.Book.Book book);
         Task EditBook(int bookId, Domain.Book.Book book);
         Task DeleteBook(int id);
+        Task<List<Bookstore.Domain.Book.Book>> ListBooks();
 
     }
 }

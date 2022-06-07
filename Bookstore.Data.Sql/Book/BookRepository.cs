@@ -64,15 +64,22 @@ namespace Bookstore.Data.Sql.Book
         public async Task DeleteBook(int id)
         {
             var book = await _context.Book.FirstOrDefaultAsync(x => x.BookId == id);
-
+            
             if (book == null)
             {
                 throw new Exception("Book not found");
             }
             _context.BookOrder.RemoveRange(_context.BookOrder.Where(x => x.BookId == id));
             _context.BookAuthor.RemoveRange(_context.BookAuthor.Where(x => x.BookId == id));
-            _context.Book.Remove(book);
+            _context.Book.Remove(book); 
             await _context.SaveChangesAsync();
+        }
+        
+        public async Task<List<Bookstore.Domain.Book.Book>> ListBooks()
+        {
+            var books = await _context.Book.ToListAsync();
+            return books.Select(b => new Domain.Book.Book(b.BookId, b.Title, b.Description, b.Price, b.ImageHref,
+                b.PublisherId)).ToList();
         }
         
     }

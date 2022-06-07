@@ -12,14 +12,16 @@ using Microsoft.EntityFrameworkCore;
 
 namespace Bookstore.Api.Controllers
 {
+    
+    //Kontrolery eksponują endpointy, które są dostępne z poziomu przeglądarki.
     [ApiVersion("2.0")]
     [Route("api/v{version:apiVersion}/book")]
-    public class BooksController : Controller
+    public class BookController : Controller
     {
         private readonly BookstoreDbContext _context;
         private readonly IBookService _bookService;
 
-        public BooksController(BookstoreDbContext context, IBookService bookService)
+        public BookController(BookstoreDbContext context, IBookService bookService)
         {
             _context = context;
             _bookService = bookService;
@@ -33,7 +35,7 @@ namespace Bookstore.Api.Controllers
             {
                 return Ok(BookToBookViewModelMapper.BookToBookViewModel(book));
             }
-
+            
             return NotFound();
         }
 
@@ -75,6 +77,13 @@ namespace Bookstore.Api.Controllers
         {
             await _bookService.DeleteBook(bookId);
             return NoContent();
+        }
+        
+        [HttpGet("list", Name = "ListBooks")]
+        public async Task<IActionResult> ListBooks()
+        {
+            var books = await _bookService.ListBooks();
+            return Ok(books.Select(b => BookToBookViewModelMapper.BookToBookViewModel(b)));
         }
     }
 }

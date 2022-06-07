@@ -13,35 +13,7 @@ namespace Bookstore.Services.Book
         {
             _BookRepository = BookRepository;
         }
-
-        // public Task<Domain.Book.Book> GetBookByBookId(int BookId)
-        // {
-        //     return _BookRepository.GetBookById(BookId);
-        // }
-        //
-        // public Task<Domain.Book.Book> GetBookByTitle(string Title)
-        // {
-        //     return _BookRepository.GetBookByTitle(Title);
-        // }
-        //
-        // public Task AddBook(Domain.Book.Book Book)
-        // {
-        //     return _BookRepository.AddBook(Book);
-        // }
-        //
-        // public Task UpdateBookPrice(Domain.Book.Book Book, int BookId)
-        // {
-        //     return _BookRepository.UpdateBookPrice(Book, BookId);
-        // }
-        //
-        // public Task EditBook(int bookId, Domain.Book.Book Book)
-        // {
-        //     return _BookRepository.EditBook(bookId, Book);
-        // }
-        // public Task DeleteBook(int bookId)
-        // {
-        //     return _BookRepository.DeleteBook(bookId);
-        // }
+        
         public Task<Domain.Book.Book> GetBookByBookId(int bookId)
         {
             return _BookRepository.GetBookById(bookId);
@@ -79,6 +51,11 @@ namespace Bookstore.Services.Book
         public async Task DeleteBook(int bookId)
         {
             await _BookRepository.DeleteBook(bookId);
+        }
+        
+        public async Task<List<Domain.Book.Book>> ListBooks()
+        {
+            return await _BookRepository.ListBooks();
         }
     }
 }
